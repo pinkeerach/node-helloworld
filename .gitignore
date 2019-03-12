@@ -1,0 +1,12 @@
+#Code Editor
+.idea/
+
+#Externals
+node_modules/
+
+#env file
+.env
+
+# Test Directories
+coverage
+
