@@ -10,3 +10,4 @@ node_modules/
 # Test Directories
 coverage
 
+node_modules
