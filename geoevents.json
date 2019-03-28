@@ -1,0 +1,326 @@
+{
+    "type": "road trip",
+    "description": "User traveling on PTC I-76 through ticketed only",
+    "geo_events": [
+        {
+            "timestamp": 1552930200,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach1",
+            "latitude": "40.223748",
+            "longitude": "-79.596760",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552930500,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach2",
+            "latitude": "40.223748",
+            "longitude": "-79.596760",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552930800,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.222306",
+            "longitude": "-79.598627",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552931100,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.221397",
+            "longitude": "-79.600378",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552931400,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.222478",
+            "longitude": "-79.602178",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552931700,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.223234",
+            "longitude": "-79.603053",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552932000,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.223234",
+            "longitude": "-79.603053",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552932300,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.224356",
+            "longitude": "-79.604310",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552932600,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.225570",
+            "longitude": "-79.608300",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552932900,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.227423",
+            "longitude": "-79.611248",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552933200,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.231450",
+            "longitude": "-79.617495",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552933500,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.231450",
+            "longitude": "-79.617495",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552933800,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.235695",
+            "longitude": "-79.621768",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552934100,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.242132",
+            "longitude": "-79.634765",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552934400,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.250960",
+            "longitude": "-79.641719",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552934700,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.259216",
+            "longitude": "-79.643322",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552935000,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.263274",
+            "longitude": "-79.654053",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552935300,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.267681",
+            "longitude": "-79.666841",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552935600,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.278079",
+            "longitude": "-79.668585",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552935900,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.286672",
+            "longitude": "-79.669273",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552936200,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.293932",
+            "longitude": "-79.670269",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552936500,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.300057",
+            "longitude": "-79.671751",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552936800,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.307395",
+            "longitude": "-79.674588",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552937100,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.308605",
+            "longitude": "-79.675665",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552937400,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.309694",
+            "longitude": "-79.676240",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552937700,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.310653",
+            "longitude": "-79.676032",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552938000,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.310816",
+            "longitude": "-79.677053",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552938300,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.310775",
+            "longitude": "-79.679122",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552938600,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.312280",
+            "longitude": "-79.679566",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552938900,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.312981",
+            "longitude": "-79.679771",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552939200,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.314323",
+            "longitude": "-79.680075",
+            "course": 0,
+            "speed": 22.35
+        },
+        {
+            "timestamp": 1552939500,
+            "vehicle_id": "main-sedan",
+            "device_id": "main-phone",
+            "user_id": "pinkeerach",
+            "latitude": "40.315559",
+            "longitude": "-79.679761",
+            "course": 0,
+            "speed": 22.35
+        }
+    ]
+}
